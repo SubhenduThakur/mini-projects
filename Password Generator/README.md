@@ -21,14 +21,6 @@ A modern, responsive Password Generator built with React — helping you create 
 
 ---
 
-## 📸 Preview
-
-You can add a screenshot here for better visualization.
-
-![Password Generator Screenshot](./path-to-your-screenshot.png)
-
----
-
 ## 🛠 Technologies Used
 
 - React
