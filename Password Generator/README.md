@@ -1,86 +1,52 @@
-🔐 Password Generator (React)
+# 🔐 Password Generator (React)
 
 A modern, responsive Password Generator built with React — helping you create secure, customizable passwords effortlessly.
 
-[🚀 **Live Demo**](https://st-password-generator.netlify.app)
+🚀 [Live Demo](https://st-password-generator.netlify.app)
 
-⸻
+---
 
-✨ Features
-• Generate strong random passwords
-• Customize password length
-• Toggle inclusion of:
-• Uppercase letters
-• Lowercase letters
-• Numbers
-• Special symbols
-• Copy generated password to clipboard
-• Built with modern React Hooks
-• Fully responsive & clean UI
+## ✨ Features
 
-⸻
+- Generate strong random passwords
+- Customize password length
+- Toggle inclusion of:
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Special symbols
+- Copy generated password to clipboard
+- Built with modern React Hooks
+- Fully responsive & clean UI
 
-📸 Preview
+---
 
-You can add a screenshot here if you’d like for better visualization.
+## 📸 Preview
 
-![Password Generator Preview](your-screenshot-link)
+You can add a screenshot here for better visualization.
 
-⸻
+![Password Generator Screenshot](./path-to-your-screenshot.png)
 
-🛠️ Technologies Used
-• React
-• Vite
-• TailwindCSS
-• JavaScript (ES6+)
+---
 
-⸻
+## 🛠 Technologies Used
 
-📂 Getting Started Locally
+- React
+- Vite
+- TailwindCSS
+- JavaScript (ES6+)
 
-Prerequisites
-• Node.js and npm installed
+---
 
-Steps
+## 📄 Getting Started Locally
 
-# Clone the repository
+### Prerequisites
 
-git clone https://github.com/SubhenduThakur/password-generator.git
+- Node.js and npm installed
 
-# Navigate to project directory
+### Steps
 
-cd password-generator
-
-# Install dependencies
-
-npm install
-
-# Run the development server
-
-npm run dev # If Vite
-
-# OR
-
-npm start # If CRA
-
-Visit http://localhost:5173 (Vite default port) or http://localhost:3000 (CRA default port) in your browser.
-
-⸻
-
-✅ Build for Production
-
-npm run build
-
-⸻
-
-📄 License
-
-This project is licensed under the MIT License — feel free to fork, improve, and share.
-
-⸻
-
-🤝 Connect with Me
-• GitHub: SubhenduThakur
-• LinkedIn: Your LinkedIn Link (optional)
-
-⸻
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/SubhenduThakur/password-generator.git
+   ```
