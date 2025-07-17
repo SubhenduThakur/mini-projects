@@ -47,4 +47,4 @@ This repository is licensed under the **MIT License**.
 Let's connect on:
 
 - [GitHub](https://github.com/SubhenduThakur)
-- [LinkedIn](https://www.linkedin.com/in/subhendu-thakur-2823582a9/)
+- [LinkedIn](https://www.linkedin.com/in/subhendu-thakur)
