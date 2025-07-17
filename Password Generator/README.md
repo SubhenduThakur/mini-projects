@@ -2,7 +2,7 @@
 
 A modern, responsive Password Generator built with React — helping you create secure, customizable passwords effortlessly.
 
-🚀 Live Demo
+[🚀 **Live Demo**](https://st-password-generator.netlify.app)
 
 ⸻
 
